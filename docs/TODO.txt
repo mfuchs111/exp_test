@@ -1,0 +1,7 @@
+Nächste Schritte für das Projekt:
+
+1. API-Dokumentation erweitern: Alle öffentlichen Endpunkte mit Beispielanfragen und -antworten dokumentieren.
+
+2. Automatisierte Tests einrichten: Eine Test-Suite mit Unit- und Integrationstests für die Kernfunktionen aufbauen.
+
+3. CI/CD-Pipeline konfigurieren: GitHub Actions einrichten, um bei jedem Push automatisch Tests auszuführen und Deployments zu automatisieren.
